@@ -94,9 +94,7 @@
     <li><a href='#'>Conatct</a></li>
   </ul><!-- .container -->
 </nav>
-</body>
-</html>
-
+	
 body {
   margin: 0;
   padding: 0;
@@ -180,3 +178,6 @@ nav > ul > li:hover > a {
     visibility: visible;
     opacity: 1;
 }
+
+</body>
+</html>

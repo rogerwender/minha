@@ -1,2 +1,0 @@
-# minha
-minha aplicacao

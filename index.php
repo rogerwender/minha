@@ -13,7 +13,7 @@
 	<?php echo "<p>Olá Mundo vasto mundo, Código PHP</p>"; ?>
 <nav>
   <ul class="container">
-    <li><a href='#'>Home</a></li>
+    <li><a href='#'>Pagina inicial</a></li>
     <li class='dropdown'>
       <a href='#'>Pages <i class="fa fa-angle-down"></i></a>
       <div class='mega-menu'>
@@ -29,13 +29,13 @@
               </ul>
           </div> <!-- /.item -->
           <div class="item">
-              <h3>Contact</h3>
+              <h3>Contatos</h3>
               <ul>
-                <li><a href='#'>Contact Page No #1</a></li>
-                <li><a href='#'>Contact Page No #2</a></li>
-                <li><a href='#'>Contact Page No #3</a></li>
-                <li><a href='#'>Contact Page No #4</a></li>
-                <li><a href='#'>Contact Page No #5</a></li>
+                <li><a href='#'>Contatos Page No #1</a></li>
+                <li><a href='#'>Contatos Page No #2</a></li>
+                <li><a href='#'>Contatos Page No #3</a></li>
+                <li><a href='#'>Contatos Page No #4</a></li>
+                <li><a href='#'>Contatos Page No #5</a></li>
               </ul>
           </div> <!-- /.item -->
           <div class="item">

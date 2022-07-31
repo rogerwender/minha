@@ -10,7 +10,7 @@
  <![endif]-->
 </head>
 <body>
-	<?php echo "<p>Olá Mundo, Código PHP</p>"; ?>
+	<?php echo "<p>Olá Mundo vasto mundo, Código PHP</p>"; ?>
 <nav>
   <ul class="container">
     <li><a href='#'>Home</a></li>
